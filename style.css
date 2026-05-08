@@ -1,0 +1,40 @@
+body {
+  background-color: #1a1a2e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.card {
+  background-color: #16213e;
+  color: white;
+  width: 300px;
+  padding: 30px;
+  border-radius: 15px;
+  border: 2px solid steelblue;
+  text-align: center;
+}
+
+.title {
+  color: steelblue;
+  font-size: 14px;
+}
+
+a {
+  color: white;
+  background-color: steelblue;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.btn {
+  background-color: steelblue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
